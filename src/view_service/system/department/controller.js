@@ -14,7 +14,7 @@ class Controller {
     if (result) {
       ctx.body = {
         code: 0,
-        message: '创建用户成功',
+        message: '创建部门成功',
         data: result
       }
     }
@@ -31,7 +31,7 @@ class Controller {
     if (result) {
       ctx.body = {
         code: 0,
-        message: '查询用户列表成功',
+        message: '查询部门列表成功',
         data: result
       }
     }
