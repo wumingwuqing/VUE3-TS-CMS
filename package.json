@@ -15,6 +15,7 @@
     "jsonwebtoken": "^9.0.2",
     "koa": "^2.15.3",
     "koa-bodyparser": "^4.4.1",
+    "koa-static": "^5.0.0",
     "koa2-cors": "^2.0.6",
     "mysql2": "^3.9.6"
   }
